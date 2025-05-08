@@ -78,10 +78,17 @@ export default function Main(props: Props): JSX.Element {
               ></MainLogo>
             </CenterStyle>
             <CenterStyle>
+             <H2Title style={{ marginTop: '.5em'}}>
+                {' '}
+                [WEBSITE UNDER CONSTRUCTION]
+              </H2Title>
+            </CenterStyle>
+            <CenterStyle>
               <H2Title style={{ marginTop: '.5em'}}>
                 {' '}
                 Scope out your Redis cache performance with RediScope
               </H2Title>
+            
             </CenterStyle>
             <CenterStyle>
               <H5Title style={{ marginTop: '.2em'}} >
