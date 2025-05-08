@@ -1,0 +1,9 @@
+node_modules
+dist
+packages
+.webpack
+out
+.env
+build
+/log
+rediscope.zip
